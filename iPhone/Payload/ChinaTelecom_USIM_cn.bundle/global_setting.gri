@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Maverick</key>
+	<dict>	
+		<key>GRI Revision</key>
+		<string>2.9.5</string>
+	</dict>
+	<key>LTE BAND REGULATOR TABLE</key>
+	<dict>
+		<key>NA LTE Band Regulation</key>
+		<array>
+			<string>302-0x00000000-0x1101105a</string>
+			<string>310-0x00000100-0x1301101a</string>
+			<string>311-0x00000100-0x1301101a</string>
+			<string>312-0x00000000-0x0301101a</string>
+			<string>313-0x00000000-0x0301101a</string>
+			<string>314-0x00000000-0x0301101a</string>
+			<string>315-0x00000000-0x0301101a</string>
+			<string>316-0x00000000-0x0301101a</string>
+			<string>330-0x00000100-0x1301101a</string>
+			<string>334-0x00000000-0x0000000a</string>
+			<string>340-0x00000000-0x000800c4</string>
+			<string>344-0x00000000-0x00011018</string>
+			<string>346-0x00000000-0x00011004</string>
+			<string>350-0x00000000-0x00000013</string>
+			<string>352-0x00000000-0x00000097</string>
+			<string>356-0x00000000-0x00011000</string>
+			<string>358-0x00000000-0x00011000</string>
+			<string>360-0x00000000-0x00011000</string>
+			<string>363-0x00000000-0x00000004</string>
+			<string>364-0x00000000-0x00011009</string>
+			<string>365-0x00000000-0x00000092</string>
+			<string>370-0x00000000-0x0000008c</string>
+			<string>374-0x00000000-0x00011000</string>
+			<string>376-0x00000000-0x00011000</string>
+		</array>
+		
+		<key>ASIA LTE Band Regulation</key>
+		<array>
+			<string>400-0x00000000-0x00000004</string>
+			<string>401-0x00000000-0x00000004</string>
+			<string>402-0x00000000-0x00000004</string>
+			<string>404-0x00000080-0x00000084</string>
+			<string>405-0x00000080-0x00000084</string>
+			<string>410-0x00000000-0x00000004</string>
+			<string>413-0x00000000-0x00000004</string>
+			<string>415-0x00000000-0x00000004</string>
+			<string>416-0x00000000-0x00000044</string>
+			<string>419-0x00000000-0x000800c4</string>
+			<string>420-0x000000a0-0x00080044</string>
+			<string>422-0x00000080-0x00000004</string>
+			<string>424-0x00000000-0x00000044</string>
+			<string>425-0x00000000-0x00000044</string>
+			<string>426-0x00000000-0x00000044</string>
+			<string>427-0x00000000-0x00080044</string>
+			<string>430-0x00000000-0x00000044</string>
+			<string>431-0x00000000-0x00000044</string>
+			<string>434-0x00000000-0x00001040</string>
+			<string>436-0x00000000-0x00000005</string>
+			<string>437-0x00000000-0x00000040</string>
+			<string>438-0x00000000-0x00000040</string>
+			<string>440-0x00000100-0x0a060085</string>
+			<string>441-0x00000100-0x0a060085</string>
+			<string>450-0x00000020-0x020000d5</string>
+			<string>454-0x00000080-0x000000c4</string>
+			<string>456-0x00000000-0x00000004</string>
+			<string>457-0x00000000-0x00000044</string>
+			<string>460-0x000001e0-0x00000005</string>
+			<string>461-0x000001e0-0x00000005</string>
+			<string>466-0x00000000-0x08000084</string>
+			<string>470-0x00000000-0x00000040</string>
+			<string>472-0x00000000-0x00000044</string>
+		</array>
+		
+		<key>EU LTE Band Regulation</key>
+		<array>
+			<string>202-0x00000020-0x000800c4</string>
+			<string>204-0x00000020-0x000800c4</string>
+			<string>206-0x00000020-0x000800c4</string>
+			<string>208-0x00000020-0x000800c4</string>
+			<string>212-0x00000000-0x00000040</string>
+			<string>214-0x00000020-0x000800c4</string>
+			<string>216-0x00000020-0x000800c4</string>
+			<string>218-0x00000000-0x000800c4</string>
+			<string>219-0x00000000-0x000800c4</string>
+			<string>220-0x00000000-0x00000004</string>
+			<string>222-0x00000020-0x000800c4</string>
+			<string>226-0x00000020-0x000800c4</string>
+			<string>228-0x00000000-0x000800c4</string>
+			<string>230-0x00000020-0x000800c4</string>
+			<string>231-0x00000020-0x000800c4</string>
+			<string>232-0x00000020-0x000800c4</string>
+			<string>234-0x00000020-0x000800c4</string>
+			<string>235-0x00000020-0x000800c4</string>
+			<string>238-0x00000020-0x000800c4</string>
+			<string>240-0x00000020-0x000800c4</string>
+			<string>242-0x00000000-0x000800c4</string>
+			<string>244-0x00000020-0x000800c4</string>
+			<string>246-0x00000020-0x000800c4</string>
+			<string>247-0x00000020-0x000800c4</string>
+			<string>248-0x00000020-0x000800c4</string>
+			<string>250-0x000000a0-0x00080044</string>
+			<string>257-0x00000000-0x00000040</string>
+			<string>259-0x00000000-0x00000040</string>
+			<string>260-0x00000020-0x000800c4</string>
+			<string>262-0x00000020-0x000800c4</string>
+			<string>268-0x00000020-0x000800c4</string>
+			<string>270-0x00000020-0x000800c4</string>
+			<string>272-0x00000020-0x000800c4</string>
+			<string>274-0x00000000-0x000800c4</string>
+			<string>278-0x00000020-0x000800c4</string>
+			<string>280-0x00000020-0x000800c4</string>
+			<string>283-0x00000000-0x00000040</string>
+			<string>284-0x00000020-0x000800c4</string>
+			<string>286-0x00000000-0x00000004</string>
+			<string>293-0x00000020-0x000800c4</string>
+			<string>294-0x00000000-0x000800c4</string>
+			<string>295-0x00000000-0x000800c4</string>
+			<string>297-0x00000000-0x000800c4</string>
+		</array>
+		
+		<key>LA LTE Band Regulation</key>
+		<array>
+			<string>704-0x00000000-0x00000002</string>
+			<string>708-0x00000000-0x00000008</string>
+			<string>712-0x00000000-0x00000054</string>
+			<string>714-0x00000000-0x08011000</string>
+			<string>716-0x00000000-0x0000000a</string>
+			<string>722-0x00000000-0x00011008</string>
+			<string>724-0x00000000-0x000000d7</string>
+			<string>730-0x00000000-0x08000048</string>
+			<string>732-0x00000000-0x00000048</string>
+			<string>734-0x00000000-0x0000000c</string>
+			<string>736-0x00000000-0x0001101f</string>
+			<string>740-0x00000000-0x00011048</string>
+			<string>744-0x00000000-0x00000008</string>
+			<string>748-0x00000000-0x0001100a</string>
+		</array>
+		
+		<key>AFRICA LTE Band Regulation</key>
+		<array>
+			<string>602-0x00000000-0x00000001</string>
+			<string>603-0x00000080-0x00000000</string>
+			<string>612-0x00000080-0x00000000</string>
+			<string>617-0x00000000-0x00000004</string>
+			<string>621-0x00000080-0x00080000</string>
+			<string>631-0x00000000-0x00000005</string>
+			<string>640-0x00000000-0x00080000</string>
+			<string>641-0x00000000-0x00080000</string>
+			<string>645-0x00000000-0x00000040</string>
+			<string>647-0x00000000-0x000800c4</string>
+			<string>648-0x00000000-0x00000004</string>
+			<string>649-0x00000000-0x00000004</string>
+			<string>655-0x00000080-0x00000005</string>		
+		</array>
+		
+		<key>OCEAN LTE Band Regulation</key>
+		<array>
+			<string>502-0x00000000-0x00000044</string>
+			<string>505-0x00000080-0x080000d5</string>
+			<string>515-0x00000000-0x00000015</string>
+			<string>520-0x00000000-0x00000005</string>
+			<string>525-0x00000000-0x00000044</string>
+			<string>528-0x00000000-0x00000004</string>
+			<string>530-0x00000080-0x080000d5</string>
+			<string>537-0x00000000-0x08000000</string>
+			<string>541-0x00000000-0x00011010</string>
+			<string>542-0x00000000-0x08000004</string>
+		</array>
+	</dict>	
+	
+	<key>LTE Band Per PLMN</key>
+	<array>
+			<string>440-50-0x00000100-0x00020001</string>
+			<string>440-51-0x00000100-0x00020001</string>
+	</array>
+
+	<key>CA Enabled PLMN</key>
+	<array>
+			<string>0x13-0x00-0x14</string>
+			<string>0x44-0xf0-0x05</string>
+			<string>0x44-0xf0-0x15</string>
+			<string>0x44-0xf0-0x40</string>
+			<string>0x44-0xf0-0x60</string>
+			<string>0x44-0xf0-0x02</string>
+			<string>0x54-0xf4-0x60</string>
+			<string>0x54-0xf4-0x51</string>
+			<string>0x54-0xf4-0x71</string>
+	</array>
+	
+</dict>
+</plist>
